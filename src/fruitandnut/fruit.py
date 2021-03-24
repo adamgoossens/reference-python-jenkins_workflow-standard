@@ -10,4 +10,3 @@ class Fruit():
             return NotImplemented
 
         return self.name == other.name and self.description == other.description
-
